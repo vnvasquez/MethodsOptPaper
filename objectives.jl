@@ -3,7 +3,7 @@ struct TargetPercentageByDate <: ObjectiveFunction end
 struct SpatialReduction <: ObjectiveFunction end
 
 ###################################
-# Objective 2.1
+# Objective 2.2
 ###################################
 
 function solve_decision_model(model::JuMP.Model,
@@ -94,7 +94,7 @@ function solve_decision_model_wolb(model::JuMP.Model,
 end
 
 ###################################
-# Objective 2.2
+# Objective 2.3
 ###################################
 
 function solve_decision_model(model::JuMP.Model,
