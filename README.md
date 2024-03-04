@@ -1,7 +1,5 @@
 # Applications of Mathematical Programming to Genetic Biocontrol
 
-Code and data for initial paper submission.
-
 Authors: Váleri N. Vásquez<sup>1,2*</sup>, John M. Marshall<sup>3,4</sup>
 
 Affiliations: 
